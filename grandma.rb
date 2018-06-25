@@ -14,6 +14,7 @@
 
 
 def speak_to_grandma(input)
+  gets == input
   if input == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end

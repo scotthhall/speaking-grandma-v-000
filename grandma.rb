@@ -13,9 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma(input)
-  gets == input
-  if input == "I LOVE YOU GRANDMA!"
+def speak_to_grandma(string)
+  if string == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 end
